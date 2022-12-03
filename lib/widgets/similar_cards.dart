@@ -4,9 +4,7 @@ import 'package:provider/provider.dart';
 
 import '../models/models.dart';
 
-/**
- * Mostra les pelicules similars
- */
+/// Mostra les pelicules similars
 class SimilarCards extends StatelessWidget {
     final int idMovie;
     
@@ -42,9 +40,7 @@ class SimilarCards extends StatelessWidget {
     }
 }
 
-/**
- * Fa la carta de les pelicules
- */
+/// Fa la carta de les pelicules
 class _SimilarCard extends StatelessWidget {
     final Movie movie;
 
