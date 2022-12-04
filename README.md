@@ -4,9 +4,15 @@ Se trata de una aplicacion hecha con flutter que hace peticiones a la API de [Th
 
 ## First of all
 
-En este mismo proyecto se incluye un TXT ([clik aqui para mas información](./lib/main.dart)) en el qua salen las URLS de los videos publicados en youtube, con una breve explicacion de codigo y demostracion en un movil.
+En cada arxivo se ha comentado el codigo usando el formato de documentaciond e Flutter, [ejemplo](./lib/providers/movies_provider.dart).
 
-A demas en cada arxivo se ha comentado el codigo usando el formato de documentaciond e Flutter, [ejemplo](./lib/providers/movies_provider.dart).
+## Videos
+
+[Explicación de codigo parte 1.](https://youtu.be/FfHsCKjLZJw)
+
+[Explicación de codigo parte 2.](https://youtu.be/rt-P-LWUBG0)
+
+[Explicación práctica sobre la APP.](https://youtu.be/yE4cwROrePk)
 
 ## Getting Started
 
