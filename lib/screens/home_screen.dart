@@ -17,12 +17,6 @@ class HomeScreen extends StatelessWidget {
         List<Movie> upcoming = moviesProvider.onUpcomingMovie;
         List<Movie> rated = moviesProvider.onRatedMovie;
 
-        Set<Movie> allMovies = {};
-        allMovies.addAll(display);
-        allMovies.addAll(popular);
-        allMovies.addAll(upcoming);
-        allMovies.addAll(rated);
-
         return Scaffold(
             appBar: AppBar(
                 title: const Text('Cartellera'),
